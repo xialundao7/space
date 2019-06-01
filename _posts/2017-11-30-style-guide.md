@@ -7,7 +7,7 @@ tags: guide
 author: hanuman
 ---
 
-<p>This shows how you can use html styling to achieve your hopes.</p>
+<p>honey,i love you!</p>
 
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
